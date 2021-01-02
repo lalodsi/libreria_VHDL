@@ -6,6 +6,8 @@ Librería con códigos en VHDL para usarlos en proyectos
   <li>divisorFrecuencia.vhd</li>
   <li>pasaYSuma.vhd</li>
   <li>display.vhd</li>
+  <li>Receptor_UART.vhd</li>
+  <li>Transmisor_UART.vhd</li>
 </ul>
 
 <h2>Descripción</h2>
