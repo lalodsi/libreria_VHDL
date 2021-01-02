@@ -26,3 +26,11 @@ Librería con códigos en VHDL para usarlos en proyectos
 <p>
   Controlador de display de 7 segmentos, 8 dígitos
 </p>
+<h3>Transmisor_UART</h3>
+<p>
+  Transmisor de información que utiliza el protocolo UART, diseñado para funcionar a 9600 baudios, fácilmente modificable
+</p>
+<h3>Receptor_UART</h3>
+<p>
+  Receptor de información que utiliza el protocolo UART, diseñado para funcionar a 9600 baudios, fácilmente modificable
+</p>
